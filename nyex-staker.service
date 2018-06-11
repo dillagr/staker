@@ -9,6 +9,7 @@ Group=nyex
 
 Type=forking
 ExecStart=/usr/local/bin/nyeriumd -daemon
+ExecStop=/usr/local/bin/nyerium-cli stop
 
 Restart=always
 RestartSec=5
