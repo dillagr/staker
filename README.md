@@ -10,7 +10,7 @@ Systemd files for Proof of Stake (PoS) crypto coins. Staking needs open wallets 
 
 
 ### Buy Me Coffee
-If you appreciate the code shared and want to show appreciation, buy me some coffee using this wallet address(es):
+If you appreciate the code shared and want to show appreciation, buy me some coffee using any of these wallet address(es):
 * ***Bitcoin (BTC): 3Kyjg1Wj1PNGN3KhiRprxYvvQpdjC5kT3k***
 * ***Etherium (ETH): 0x5F168F895C63ccC5FbEf921047bc2b63f6780c3F***
 * ***SmartCash (SMART): SbgqBUuGBVaaFERmc5zPn8XStxXe7vE1SL***
