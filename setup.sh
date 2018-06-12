@@ -8,7 +8,7 @@ sudo apt-get -y update
 sudo apt-get -y dist-upgrade
 
 ## additional Ubuntu packages
-sudo apt-get install nano htop git \
+sudo apt-get -y install nano htop git \
 	build-essential libtool autotools-dev \
 	automake pkg-config libssl-dev libevent-dev \
 	bsdmainutils software-properties-common \
