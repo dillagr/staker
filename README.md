@@ -2,11 +2,17 @@
 Systemd files for Proof of Stake (PoS) crypto coins. Staking needs open wallets 24x7, so this runs the wallet as a service and restarts it on failure. It automatically starts the service on boot.
 
 
-### Install Instructions
+### Install Instructions (.service files)
 * Copy the file(s) to */etc/systemd/system*.
 * Execute *sudo systemctl daemon-reload*
 * Enable the service (e.g. *sudo systemctl enable nyex-staker*)
 * Start the service (e.g. *sudo systemctl start nyex-staker*)
+
+
+### Install Instructions (.conf files)
+* Run *nyeriumd* and copy the rpcuser and rpcpassword generated
+* The above command creates a blank *nyerium.conf* inside a hidden directory *.nyerium* in the user's home directory
+* Replace the *nyerium.conf* file with the applicable configuration file for the node function
 
 
 ### Buy Me Coffee
