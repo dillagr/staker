@@ -1,0 +1,11 @@
+## as /etc/logrotate.d/nyex.logrotate
+/home/nyex/.nyerium/debug.log
+/home/nyexmn/.nyerium/debug.log
+{
+  su
+  missingok
+  copytruncate
+  dateext
+  rotate 5
+  size 5M
+}
