@@ -21,3 +21,7 @@ If you appreciate the code shared and want to show appreciation, buy me some cof
 * ***Etherium (ETH): 0x5F168F895C63ccC5FbEf921047bc2b63f6780c3F***
 * ***SmartCash (SMART): SbgqBUuGBVaaFERmc5zPn8XStxXe7vE1SL***
 * ***Nyerium (NYEX): NYYJc31kdp9BVdjGuWRZv91b4SYG1pTVWu***
+
+
+### Got Discord?
+[Why don't you join the discussion?](https://discord.gg/jvMMWNd)
