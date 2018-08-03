@@ -24,5 +24,4 @@ If you appreciate the code shared and want to show appreciation, buy me some cof
 
 
 &#160;
-### *Got Discord?*
-[Why don't you join the discussion?](https://discord.gg/jvMMWNd)
+### *Got Discord?* [Why don't you join the discussion?](https://discord.gg/jvMMWNd)
