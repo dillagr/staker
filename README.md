@@ -1,4 +1,4 @@
-# staker
+# Proof of Stake (PoS)
 Systemd files for Proof of Stake (PoS) crypto coins. Staking needs open wallets 24x7, so this runs the wallet as a service and restarts it on failure. It automatically starts the service on boot.
 
 
@@ -24,5 +24,5 @@ If you appreciate the code shared and want to show appreciation, buy me some cof
 
 
 &#160;
-### Got Discord?
+### *Got Discord?*
 [Why don't you join the discussion?](https://discord.gg/jvMMWNd)
