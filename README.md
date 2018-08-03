@@ -23,5 +23,6 @@ If you appreciate the code shared and want to show appreciation, buy me some cof
 * ***Nyerium (NYEX): NYYJc31kdp9BVdjGuWRZv91b4SYG1pTVWu***
 
 
+&#160;
 ### Got Discord?
 [Why don't you join the discussion?](https://discord.gg/jvMMWNd)
