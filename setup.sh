@@ -9,11 +9,11 @@ sudo apt-get -y dist-upgrade
 
 ## additional Ubuntu packages
 sudo apt-get -y install nano htop git \
-	build-essential libtool autotools-dev \
-	automake pkg-config libssl-dev libevent-dev \
-	bsdmainutils software-properties-common \
-	libboost-all-dev libzmq3-dev \
-	libminiupnpc-dev libssl-dev libevent-dev
+  build-essential libtool autotools-dev \
+  automake pkg-config libssl-dev libevent-dev \
+  bsdmainutils software-properties-common \
+  libboost-all-dev libzmq3-dev \
+  libminiupnpc-dev libssl-dev libevent-dev
 	
 ## external repo
 sudo add-apt-repository -y ppa:bitcoin/bitcoin
