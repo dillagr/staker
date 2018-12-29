@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+###
+### NOTES/COMMENTS:
+### 11-28-2018 -- initially written to solve issues with AEGEUS (AEG)
+### 
+
 ### PATH CORRECTION
 export PATH=/usr/local/bin:$PATH
 
