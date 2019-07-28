@@ -16,10 +16,10 @@ def ban_node(ipaddr):
   
   ## CHANGE 90, if applicable
   DAY = 86400
-  ban_time = time.time() + 90*DAY  # ban for 90days
+  ban_time = int( time.time() + 90*DAY )  # ban for 90days
 
   ## EXECUTE!
-  subprocess.run([COINCLI,'setban',ipcidr,'add',int(ban_time)])
+  subprocess.run([COINCLI,'setban',ipcidr,'add',str(ban_time)])
   #print('Banned node:', ipaddr)
 
 
