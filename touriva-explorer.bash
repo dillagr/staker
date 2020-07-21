@@ -1,9 +1,15 @@
 #!/usr/bin/env bash
 
 ###
+### INSTRUCTIONS:
+### * save this file to $HOME/.local/bin
+### * run with cron (crontab -e), add this line:
+###       0,30 * * * * $HOME/.local/bin/touriva-explorer.bash
+###
 ### NOTES/COMMENTS:
 ### 11-28-2018 -- initially written to solve issues with AEGEUS (AEG)
 ### 07-21-2020 -- adapted to work with touriva (TOUR)
+###
 
 ### PATH CORRECTION
 export PATH=/usr/local/bin:$PATH
