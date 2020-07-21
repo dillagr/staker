@@ -27,5 +27,5 @@ If you appreciate the code shared and want to show appreciation, buy me some cof
 ### *Got Discord? [Why don't you join the discussion?](https://discord.gg/jvMMWNd)*
 
 
-### Linux Course
+### *Linux Course*
 If you're interested to know more about Linux (the operating system which runs these VPS intances), I would suggest this course [The Art of Doing: The Linux Command Line](https://bit.ly/2OFwdfO).
