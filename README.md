@@ -24,7 +24,7 @@ If you appreciate the code shared and want to show appreciation, buy me some cof
 
 
 ### *Linux Course*
-If you're interested to know more about Linux (the operating system which runs these VPS intances), I would suggest this course [The Art of Doing: The Linux Command Line](https://bit.ly/2OFwdfO). It is a highly rated Linux course in Udemy.
+If you're interested to know more about Linux (the operating system which runs these VPS intances), I would suggest this course [The Art of Doing: Learn the Linux Command Line](https://bit.ly/2OFwdfO). It is a highly rated Linux course in Udemy.
 
 
 &#160;
